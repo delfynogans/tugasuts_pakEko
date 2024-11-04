@@ -1,3 +1,11 @@
+## Profil
+| Variable | Isi |
+| -------- | --- |
+| **Nama** | DELFYNO DWI PRASTYO  |
+| **NIM** | 312310480 |
+| **Kelas** | TI.23.A.5 |
+| **Mata Kuliah** |Pemrograman web 1|
+
 # tugasuts_pakEko
 # page Home
 ![image](https://github.com/user-attachments/assets/3ccaaeba-7b46-4029-a04c-9829f262e3af)
